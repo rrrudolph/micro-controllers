@@ -1,7 +1,7 @@
 /*
-  This ish is to make a pemf generator which will kinda randomly step thru frequencies 0-35.
-  Im splitting each integer step into 3 different freqs by choosing random decimal values.
-  This creates a 50% duty cycle "square wave" (mostly square).
+  This is a pemf generator which will step thru frequencies 0-35.
+  I'm splitting each integer step into 3 different freqs by choosing random decimal values.
+  A 50% duty cycle "square wave" (mostly square) is used.
 */
 
 // runtime: how many minutes program will run
