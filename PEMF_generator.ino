@@ -1,5 +1,5 @@
 /*
-  This is a pemf generator which will step thru frequencies 0-35.
+  This is a pemf generator which will step thru frequencies 35hz --> 0hz.
   I'm splitting each integer step into 3 different freqs by choosing random decimal values.
   A 50% duty cycle "square wave" (mostly square) is used.
 */
