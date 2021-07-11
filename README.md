@@ -5,7 +5,7 @@
 
 This is a file for the Arduino IDE. It steps through a range of frequencies, choosing 3 random decimals for each integer. The signal gets sent to an amplifier and then passed to a copper coil to create a pulsating magnet field. It's supposed to help with inflammation and other things, which it did.
 
-I'm currently simplifying the circuit as the amplifier, V5 power source, and relay is not needed.
+I'm currently simplifying the circuit as the amplifier, V5 power source, and relay are not needed.
 
 This video demonstrates the user inputs:
 https://vimeo.com/573739980
