@@ -1,7 +1,8 @@
 ### PEMF Generator
 
 A PEMF Generator is just a signal generator, an amplifier, and a coil to emit a magnet field. I've built a few models at this point because they help quite a bit with back pain, and inflamation in general.  
-I built a small version for a friend of mine:
+
+This is a small version I made for a friend of mine:
 https://vimeo.com/590700327
 
 And the internals:
